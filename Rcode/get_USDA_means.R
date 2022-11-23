@@ -12,7 +12,7 @@ all_states <- nass_param('state_ansi',
                          commodity_desc = 'CORN',
                          util_practice_desc = 'GRAIN',
                          statisticcat_desc = 'YIELD',
-                         agg_level_desc = "COUNTY")
+                         agg_level_desc = 'COUNTY')
 
 # Get data
 ndata <- list()
